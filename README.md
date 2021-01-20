@@ -13,6 +13,7 @@ An XML file is also created, to list each file whith its details.
 ![WML Content](https://i.imgur.com/pNH32Yt.png)
 
 thanks to this file I was able to get all the files and rename them, while putting them back to the right folder.
-
+All you have to do, is to create two folders. One named `SORTED FILES` and the otehr one named `UNSORTED FILES`.
+Be sure that your XML file has the same name than mine, and put it with the pool folder in `UNSORTED FILES`.
 
 I think nobody is ever gonna use this, but I hope it will be helpful to somebody one day...
